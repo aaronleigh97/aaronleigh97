@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronleigh97
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Programming C# and Java
+- 🌱 I’m currently learning C#, Java, and Python
 - 📫 You can reach me at aaronleigh97@gmail.com
 
 <!---
