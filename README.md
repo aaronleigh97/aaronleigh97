@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @aaronleigh97
-- 💻 I’m interested in software engineering, particularly backend development
-- 🐍 I have commercial experience building internal web applications with Python
-- 🌱 I’m currently strengthening my Java, Spring Boot, and backend API skills
-- 📫 You can reach me at aaronleigh97@gmail.com
+- 👋 Hi, I’m Aaron
+- 💻 Python-focused software developer with 4 years’ commercial experience at JD Sports
+- 🐍 Experienced in building internal web applications, business tools, and SQL-backed systems
+- 🎓 Currently completing a Master’s in Software Engineering and Digital Leadership
+- 🌱 Strengthening my backend development skills with Java, Spring Boot, REST APIs, and databases
+- 📫 Contact: aaronleigh97@gmail.com
