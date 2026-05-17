@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @aaronleigh97
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C#, Java, and Python
+- 💻 I’m interested in software engineering, particularly backend development
+- 🐍 I have commercial experience building internal web applications with Python
+- 🌱 I’m currently strengthening my Java, Spring Boot, and backend API skills
 - 📫 You can reach me at aaronleigh97@gmail.com
-
-<!---
-aaronleigh97/aaronleigh97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
