@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron
-- 💻 Python-focused software developer with 4 years’ commercial experience at JD Sports
+- 💻 Python-focused software developer with 4 years commercial experience at JD Sports
 - 🐍 Experienced in building internal web applications, business tools, and SQL-backed systems
 - 🎓 Currently completing a Master’s in Software Engineering and Digital Leadership
 - 🌱 Strengthening my backend development skills with Java, Spring Boot, REST APIs, and databases
